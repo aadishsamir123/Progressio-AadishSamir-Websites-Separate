@@ -1,0 +1,12 @@
+#text-first {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+#image-infograph {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
